@@ -1,1 +1,1 @@
-# opentelemetry-swift-contrib
+# opentelemetry-swift-grpc
